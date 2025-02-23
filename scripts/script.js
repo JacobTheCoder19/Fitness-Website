@@ -1,8 +1,3 @@
-/* 
-    Student Name: Your Name
-    File Name: script.js
-    Date: 2-1-2023
-*/
 
 // Global variables
 var video = document.getElementById("example");
